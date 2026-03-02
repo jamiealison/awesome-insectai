@@ -32,6 +32,8 @@ Contributions are welcome! Please check the [contribution guidelines](#contribut
 
 | Year | Reference/Description | Links |
 |------|-----------------------|-------|
+| 2026 |**[ARNI Manual]** description of the automated recorder of nocturnal insects |[project webpage](https://lepmon.de/en/software-and-documentation/) |
+| 2026 | **[Method comparison]** Holzhauer et al. Do camera light traps for moths provide similar data as conventional funnel light traps? | [paper](https://resjournals.onlinelibrary.wiley.com/doi/10.1111/icad.70065) |
 | 2025 | **[gbifxdl]** Mougeot G, et al. *GBIF eXtreme downloader - Scalable GBIF Image Downloading with Metadata* | [code](https://github.com/GuillaumeMougeot/gbifxdl) |
 | 2024 | **[antenna]** *Antenna - The Insect Data Platform* | [website](https://www.insectai.org/) [code](https://github.com/RolnickLab/antenna) [paper](https://arxiv.org/abs/2406.12452) |
 | 2024 | **[camtrapdp]** *Camtrap DP: an open standard for the FAIR exchange and archiving of camera trap data* | [website](https://camtrap-dp.tdwg.org/) [code](https://github.com/tdwg/camtrap-dp) [paper](https://doi.org/10.1002/rse2.374) |
