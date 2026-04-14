@@ -1,6 +1,6 @@
 # 🪲 Awesome InsectAI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of **papers, datasets, code, and pretrained models** related to **insect detection, classification, and monitoring** using AI and deep learning.  
+A curated list of **papers, datasets, code, and pretrained models** related to **insect detection, classification, and monitoring** using AI and deep learning.  Represented models must share model weights as a minimum.
 
 Contributions are welcome! Please check the [contribution guidelines](#contributing) below.
 
